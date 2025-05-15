@@ -7,9 +7,11 @@ namespace Lib
 {
     public abstract class LibItem
     {
+        // priv field 
         private string title = string.Empty;
         private int pubYear;
 
+        // pub properties
         public LibItem(string title, int pubYear)
         {
             Title = title;
@@ -24,6 +26,7 @@ namespace Lib
 
         public int PubYear
         {
+            // year cannot be less than or equal to "0"
             get { return pubYear; }
             set
             {
