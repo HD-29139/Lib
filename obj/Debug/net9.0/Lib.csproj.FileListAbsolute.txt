@@ -1,0 +1,14 @@
+C:\Users\steam\OneDrive\Documentos\Lib\bin\Debug\net9.0\Lib.exe
+C:\Users\steam\OneDrive\Documentos\Lib\bin\Debug\net9.0\Lib.deps.json
+C:\Users\steam\OneDrive\Documentos\Lib\bin\Debug\net9.0\Lib.runtimeconfig.json
+C:\Users\steam\OneDrive\Documentos\Lib\bin\Debug\net9.0\Lib.dll
+C:\Users\steam\OneDrive\Documentos\Lib\bin\Debug\net9.0\Lib.pdb
+C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\Lib.AssemblyInfoInputs.cache
+C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\Lib.AssemblyInfo.cs
+C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\Lib.dll
+C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\refint\Lib.dll
+C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\Lib.pdb
+C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\Lib.genruntimeconfig.cache
+C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\ref\Lib.dll
