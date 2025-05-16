@@ -26,7 +26,7 @@ namespace Lib
 
         public int PubYear
         {
-            // year cannot be less than or equal to "0"
+            // "BETTER" year cannot be less than or equal to 0
             get { return pubYear; }
             set
             {
