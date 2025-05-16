@@ -12,3 +12,4 @@ C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\refint\Lib.dll
 C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\Lib.pdb
 C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\Lib.genruntimeconfig.cache
 C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\ref\Lib.dll
+C:\Users\steam\OneDrive\Documentos\Lib\obj\Debug\net9.0\Lib.sourcelink.json
